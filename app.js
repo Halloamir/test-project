@@ -1,1 +1,1 @@
-// amirgithub
+console.log("google.com");
